@@ -1,1 +1,2 @@
-Hello Daisy, we are working on the same txt file 
+
+Hello this is Daisy and I am working on clora.txt.
